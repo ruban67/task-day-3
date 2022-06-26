@@ -1,0 +1,31 @@
+
+{
+  "basics": {
+    "name": "ruban",
+    "d.o.b":"17.08.1999",
+    "email": "rubansmash17@gmail.com",
+    "phone": "+91 9159259324",
+    "degree": "b.tech",
+    "summary": "to contribute my educational and interpersonal skills in a position with growing and dynamic firm.to put sincere effort to meet the organization goals",
+    "location": {
+      "address": "100,kpm thottam,t.r.pattinam",
+      "postalCode": "609606",
+      "city": "karaikal",
+      "countryCode": "india +91",
+      "region": "puducherry"
+    },
+},
+
+"education":
+    {
+      "institution": "pkiet",
+      "area": "bachelor of technology",
+      "studyType": "regular",
+      "startDate": "2017",
+      "endDate": "2022",
+      "gpa": "5.8",
+      "courses": [
+        "computer science engineering"
+      ]
+    },
+}
